@@ -1,5 +1,3 @@
-= TWENTY ELEVEN =
-
-* by the WordPress team, http://wordpress.org/
-
-== ABOUT TWENTY ELEVEN ==
+cmrn
+====
+A Wordpress theme created for the CMRN website
